@@ -5,6 +5,8 @@
     "age": 3
 }
  */
+
+/* */
 let carArray = [];
 
 let nextId = 1;
